@@ -3,23 +3,23 @@
   
 Private Repository only for G-nonymous Club Members.
 
-Trello Board : 
+### Trello Board : 
 https://trello.com/b/uzaOmvTq/zombie
 
-Google Docs Planning Document
+### Google Docs Planning Document
 https://docs.google.com/document/d/10hPSf7gZYCTYfqQ3gyY6e_6rIMgRTndIW4m6TCY6p5Y/edit#
 
-Important Notes
+## Important Notes
 
-_Unity Version 2020.3.17f1
+###_Unity Version 2020.3.17f1
 
 Reference_TopDownEngine
 
 
 
-Please submit your work in the designated folders.
+#### Please submit your work in the designated folders.
 
-Do not create branches. Commit only to the main branch.
+#### Do not create branches. Commit only to the main branch.
 
 
 
@@ -31,13 +31,13 @@ Do not create branches. Commit only to the main branch.
   
 _Please change your name if needed.
 
-Project Team Members
+## Project Team Members
 
-_Project Lead : 
+#### Project Lead : 
 
 Alvin _Yong Kun Kim
 
-_Programming : 
+#### Programming : 
 
 Ji Yeon Seo
 
@@ -51,7 +51,7 @@ Tae Woo Kim
 
 
 
-_Art : 
+#### Art : 
 
 Kim Jung Min
 
@@ -75,7 +75,7 @@ Da Young Choi
 
 
 
-_Sound :
+#### Sound :
 
 Dong Hyun Lee
 
