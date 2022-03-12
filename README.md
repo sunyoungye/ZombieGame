@@ -47,7 +47,7 @@ Eui Chan Lee
 
 Chae Yeon Lee
 
-Tae Woo Kim
+Alex _Tae Woo Kim
 
 
 
@@ -90,6 +90,6 @@ Ho Bin Moon
 
 ---------- Type any additional notes below.
 
-NOTES
+## NOTES
 
 
