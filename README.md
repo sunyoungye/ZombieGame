@@ -22,11 +22,6 @@ Reference_TopDownEngine
 #### Do not create branches. Commit only to the main branch.
 
 
-
-
-
-
-
 --------------------------
   
 _Please change your name if needed.
@@ -87,9 +82,10 @@ Sun Yung Jung
 
 Ho Bin Moon
 
-
----------- Type any additional notes below.
+--------------------------
+Type any additional notes below.
 
 ## NOTES
 
 
+--------------------------
