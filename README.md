@@ -16,10 +16,13 @@ https://docs.google.com/document/d/10hPSf7gZYCTYfqQ3gyY6e_6rIMgRTndIW4m6TCY6p5Y/
 Reference_TopDownEngine
 
 
+#### Please check Trello board in a weekly basis.
 
 #### Please submit your work in the designated folders.
 
 #### Do not create branches. Commit only to the main branch.
+
+#### Always save your files in your local device. 
 
 
 --------------------------
