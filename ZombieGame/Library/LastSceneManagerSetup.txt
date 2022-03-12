@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/TopDownEngine/Demos/Koala2D/KoalaDungeon.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
