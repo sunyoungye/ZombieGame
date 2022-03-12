@@ -16,6 +16,7 @@ _Unity Version 2020.3.17f1
 Reference_TopDownEngine
 
 
+
 Please submit your work in the designated folders.
 
 Do not create branches. Commit only to the main branch.
@@ -24,10 +25,12 @@ _Please change your name if needed.
 
 Project Team Members
 
-Project Lead : 
+_Project Lead : 
+
 Alvin _Yong Kun Kim
 
-Programming : 
+_Programming : 
+
 Ji Yeon Seo
 
 Su Bi Lee
@@ -40,7 +43,8 @@ Tae Woo Kim
 
 
 
-Art : 
+_Art : 
+
 Kim Jung Min
 
 Cha Ju Young
@@ -63,7 +67,8 @@ Da Young Choi
 
 
 
-Sound :
+_Sound :
+
 Dong Hyun Lee
 
 Ji Won Bae
