@@ -1,5 +1,5 @@
 # ZombieGame
-Gnonymous Game Spring 2022
+## Gnonymous Game Spring 2022
   
 Private Repository only for G-nonymous Club Members.
 
@@ -20,6 +20,14 @@ Reference_TopDownEngine
 Please submit your work in the designated folders.
 
 Do not create branches. Commit only to the main branch.
+
+
+
+
+
+
+
+--------------------------
   
 _Please change your name if needed.
 
@@ -80,7 +88,8 @@ Sun Yung Jung
 Ho Bin Moon
 
 
+---------- Type any additional notes below.
 
 NOTES
----------- Type any additional notes below.
+
 
